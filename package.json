@@ -1,0 +1,29 @@
+{
+  "name": "eslint-config-kankan",
+  "version": "0.0.1",
+  "description": "eslint-config-kankan",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ttkankan/kankan-style.git"
+  },
+  "keywords": [
+    "kankan",
+    "style",
+    "eslint",
+    "eslintconfig"
+  ],
+  "author": "lgh06",
+  "main": "index.js",
+  "peerDependencies": {
+    "eslint": ">=3"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ttkankan/kankan-style/issues"
+  },
+  "homepage": "https://github.com/ttkankan/kankan-style#readme"
+}
